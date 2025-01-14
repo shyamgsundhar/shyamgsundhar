@@ -22,9 +22,9 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamgsundhar&show_icons=true&theme=tokyonight" alt="Shyam's GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgsundhar&theme=tokyonight" alt="Shyam's Streak Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgsundhar&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-G-Sundhar&show_icons=true&theme=tokyonight" alt="Shyam's GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-G-Sundhar&theme=tokyonight" alt="Shyam's Streak Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-G-Sundhar&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
 </p>
 
 ---
