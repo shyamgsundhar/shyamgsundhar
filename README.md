@@ -3,8 +3,8 @@
 
 ### 💡 **About Me**  
 🌟 **Innovation Ambassador** at KPR Institute of Engineering and Technology  
-🖥️ Experienced **Mobile App Developer** with expertise in **Flutter**, **Firebase**, and **Bluetooth Low Energy**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and emerging technologies like **Metaverse** and **VR**  
+🖥️ Experienced **Artificial Intelligence and Machine Learning** & **Mobile App Developer** with expertise in **Flutter** and **Firebase**
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning** and **Deep Learning** 
 📘 Published researcher contributing to topics like **Sustainable Smart Cities** and **Heart Attack Prediction**  
 
 ---
@@ -70,14 +70,4 @@
 ---
 ### 🌟 **Fun Fact**  
 > "Coding is like poetry; every line tells a story, every function has a rhythm!"  
----
-
-### **Support My Work**  
-<p align="center">
-  If you like my projects or would like to support my work, feel free to buy me a coffee!  
-  <a href="https://www.buymeacoffee.com/shyamsundhar">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?logo=buymeacoffee&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
 ---
