@@ -13,23 +13,25 @@
 
 ### 🔧 **Tech Stack**  
 <p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30">
 </p>
 
 ---
 
 ### 💻 **My IDEs & Tools**  
 <p align="left">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Project%20IDX-FF4773?logo=google&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" height="30">
+  <img src="https://img.shields.io/badge/-Project%20IDX-FF4773?logo=google&logoColor=white&style=flat" height="30">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat" height="30">
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat" height="30">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" height="30">
 </p>
 
 ---
@@ -59,19 +61,19 @@
 ### 🌐 **Let's Connect**  
 <p align="left">
   <a href="https://www.linkedin.com/in/shyamgsundhar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30">
   </a>
   <a href="https://shyamgsundhar2005.wixsite.com/shyamgsundhar">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" height="30">
   </a>
   <a href="mailto:shyamgsundhar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
   </a>
   <a href="https://leetcode.com/ShyamGSundhar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30">
   </a>
   <a href="https://www.hackerrank.com/shyamsundhar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" height="30">
   </a>
 </p>
 
