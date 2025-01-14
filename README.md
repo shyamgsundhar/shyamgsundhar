@@ -1,57 +1,95 @@
-# 👋 Hello, I'm **Shyam Sundhar**  
-## 🚀 **Tech Enthusiast | AI/ML Developer | Flutter Expert**  
+# 👋 **Hello, I'm Shyam Sundhar**  
+## 🚀 **AI/ML Developer | Mobile App Expert | Innovation Leader**  
 
-### 💡 **About Me**
-🌟 **Innovation Ambassador** at KPR Institute of Engineering and Technology  
-🖥️ Experienced **Mobile App Developer** with expertise in **Flutter**, **Firebase**, and **Bluetooth Low Energy**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and emerging technologies like **Metaverse** and **VR**  
-📘 Published researcher contributing to topics like **Sustainable Smart Cities** and **Heart Attack Prediction**  
+### 💡 **About Me**  
+Greetings! I’m a passionate **Mobile App Developer** and **AI/ML Enthusiast**, currently an **Innovation Ambassador** at **KPR Institute of Engineering and Technology**. I specialize in **Flutter**, **Firebase**, **Bluetooth Low Energy**, and emerging technologies such as **Metaverse** and **VR**. I am also a **Published Researcher** focusing on **Sustainable Smart Cities** and **Heart Attack Prediction**.
 
----
-
-### 🔧 **Tech Stack**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+- **AI/ML Researcher**: Developing innovative solutions in AI and Machine Learning.
+- **Mobile App Developer**: Expertise in **Flutter**, building seamless cross-platform apps.
+- **Emerging Technologies**: Exploring **Metaverse**, **VR**, and **Sustainable Smart Cities**.
+- **Published Researcher**: Contributing to **Heart Attack Prediction** and **Sustainable Smart Cities**.
 
 ---
 
-### 📈 **GitHub Stats**
+### 🔧 **Tech Stack**  
+Here’s a snapshot of the tools I work with regularly:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-G-Sundhar&show_icons=true&theme=tokyonight" alt="Shyam's GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-G-Sundhar&theme=tokyonight" alt="Shyam's Streak Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-G-Sundhar&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" alt="Dart"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"/>
 </p>
 
 ---
 
-### 💻 **Current Roles**
-- 🚗 **Mobile Application Developer** at Ozotec EV  
-- 💼 **Secretary** at IEEE Computational Intelligence Society  
-- 🤝 Freelancer developing cutting-edge mobile applications and solutions  
+### 📈 **GitHub Stats**  
+Check out my progress with some colorful stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyam-G-Sundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-G-Sundhar&theme=radical" alt="Shyam's Streak Stats" height="150" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-G-Sundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
+</p>
 
 ---
 
-### 🏆 **Achievements**
-- 📚 Published papers on **Smart Cities** and **Hybrid Classification Algorithms**  
-- 🏅 Earned certifications in **Machine Learning**, **Flutter Development**, and **Data Models**  
-- 🌟 Played a key role in **Full Stack Development** at **Techrodai**  
+### 💻 **Current Roles**  
+- 🚗 **Mobile Application Developer** at **Ozotec EV** – Building innovative solutions for the electric vehicle industry.
+- 💼 **Secretary** at **IEEE Computational Intelligence Society** – Driving tech initiatives and organizing events.
+- 🤝 **Freelancer** – Crafting cutting-edge mobile applications and solutions for diverse clients.
 
 ---
 
-### 🌐 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shyamgsundhar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge)](https://shyamgsundhar2005.wixsite.com/shyamgsundhar)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shyamgsundhar@gmail.com)
+### 🏆 **Achievements**  
+I’m proud to share some of my accomplishments:
+
+- 📚 Published papers on **Smart Cities** and **Hybrid Classification Algorithms**.
+- 🏅 Certified in **Machine Learning**, **Flutter Development**, and **Data Models**.
+- 🌟 Contributed to **Full Stack Development** at **Techrodai**.
 
 ---
 
-### 🌟 **Fun Fact**
+### 🌐 **Let’s Connect**  
+Feel free to connect with me on the following platforms:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shyamgsundhar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://shyamgsundhar2005.wixsite.com/shyamgsundhar">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:shyamgsundhar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🌟 **Fun Fact**  
 > "Coding is like poetry; every line tells a story, every function has a rhythm!"  
+
 ---
 
-Feel free to modify it further or let me know if you'd like any adjustments! 🚀
+### 🚀 **Let’s Build Something Amazing Together!**  
+I am always looking for new challenges and opportunities to learn and grow in the field of AI/ML and mobile development. Let’s collaborate and create something impactful!
+
+---
+
+### **Notes for Enhancements**
+- **Theme-based Mode**: GitHub’s theme (light or dark) automatically applies for users, making your profile viewable in both light and dark modes without needing extra code.
+- **Dynamic Stats**: Stats like streaks and top languages can dynamically update, making your profile constantly fresh.
+- **Colorful Badges**: Shields.io badges will stand out with vibrant colors.
+
+---
+
+#### Enjoying GitHub in **Dark Mode**?  
+Your stats and colors automatically adjust to match your theme preference (light or dark) for a beautiful viewing experience.
+
+---
+
+Let me know if you'd like any further changes or have specific customization requests! This approach focuses on dynamic and vibrant elements while adhering to GitHub's functionality.
