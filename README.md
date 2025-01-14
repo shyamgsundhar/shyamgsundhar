@@ -1,20 +1,17 @@
-# 👋 **Hello, I'm Shyam Sundhar**
-
-## 🚀 **Tech Enthusiast | AI/ML Developer | Flutter Expert**
-
----
-
-### 💡 **About Me**
-
-- 🌟 **Innovation Ambassador** at **KPR Institute of Engineering and Technology**
-- 🖥️ Experienced in **Artificial Intelligence**, **Machine Learning**, and **Mobile App Development** with a focus on **Flutter** and **Firebase**
-- 🤖 Passionate about **Artificial Intelligence**, **Deep Learning**, and building scalable applications
-- 📘 Published researcher in **Sustainable Smart Cities** and **Heart Attack Prediction**
+# 👋 **Hello, I'm Shyam Sundhar**  
+## 🚀 **Tech Enthusiast | AI/ML Developer | Mobile App Developer**
 
 ---
 
-### 🔧 **Tech Stack**
+### 💡 **About Me**  
+- 🌟 **Innovation Ambassador** at **KPR Institute of Engineering and Technology**  
+- 🖥️ Experienced in **AI**, **ML**, **Mobile App Development** (Focus on **Flutter** & **Firebase**)  
+- 🤖 Passionate about **AI**, **Deep Learning**, and scalable applications  
+- 📘 Published research in **Sustainable Smart Cities** and **Heart Attack Prediction**
 
+---
+
+### 🔧 **Tech Stack**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat">
@@ -26,8 +23,7 @@
 
 ---
 
-### 💻 **My IDEs & Tools**
-
+### 💻 **My IDEs & Tools**  
 <p align="left">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/-Project%20IDX-FF4773?logo=google&logoColor=white&style=flat">
@@ -38,35 +34,30 @@
 
 ---
 
-### 📈 **GitHub Stats**
-
-<p align="center">
+### 📈 **GitHub Stats**  
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shyamgsundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgsundhar&theme=radical" alt="Shyam's Streak Stats" height="150" width="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgsundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
 </p>
 
 ---
 
-### 🏆 **Achievements**
-
-- 📚 Published research papers on **Smart Cities** and **Hybrid Classification Algorithms**
-- 🏅 Earned certifications in **Machine Learning**, **Flutter Development**, and **Data Models**
-- 🌟 Played a key role in **Full Stack Development** at **Techrodai**
-
----
-
-### 💻 **Current Roles**
-
-- 🚗 **Mobile Application Developer** at **Ozotec EV**
-- 💼 **Secretary** at **IEEE Computational Intelligence Society**
-- 🤝 Freelancer developing cutting-edge mobile applications and solutions
+### 🏆 **Achievements**  
+- 📚 Published research on **Smart Cities** and **Hybrid Classification Algorithms**  
+- 🏅 Earned certifications in **Machine Learning**, **Flutter Development**, and **Data Models**  
+- 🌟 Key contributor to **Full Stack Development** at **Techrodai**
 
 ---
 
-### 🌐 **Let's Connect**
+### 💻 **Current Roles**  
+- 🚗 **Mobile Application Developer** at **Ozotec EV**  
+- 💼 **Secretary** at **IEEE Computational Intelligence Society**  
+- 🤝 Freelancer, building cutting-edge mobile applications
 
-<p align="center">
+---
+
+### 🌐 **Let's Connect**  
+<p align="left">
   <a href="https://www.linkedin.com/in/shyamgsundhar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
@@ -86,6 +77,7 @@
 
 ---
 
-### 🌟 **Fun Fact**
+### 🌟 **Fun Fact**  
+> "Coding is like poetry; every line tells a story, every function has a rhythm!"  
 
-> "Coding is like poetry; every line tells a story, every function has a rhythm!"
+---
