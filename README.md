@@ -3,13 +3,13 @@
 
 ### 💡 **About Me**  
 🌟 **Innovation Ambassador** at KPR Institute of Engineering and Technology  
-🖥️ Experienced **Artificial Intelligence and Machine Learning** & **Mobile App Developer** with expertise in **Flutter** and **Firebase**
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning** and **Deep Learning** 
+🖥️ Experienced **Artificial Intelligence and Machine Learning** & **Mobile App Developer** with expertise in **Flutter** and **Firebase**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**  
 📘 Published researcher contributing to topics like **Sustainable Smart Cities** and **Heart Attack Prediction**  
 
 ---
 
-### 🔧 **Tech Stack**
+### 🔧 **Tech Stack**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square">
@@ -22,7 +22,18 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### 💻 **My IDEs & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Project%20IDX-FF4773?logo=google&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square">
+</p>
+
+---
+
+### 📈 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shyam-G-Sundhar&show_icons=true&theme=tokyonight" alt="Shyam's GitHub Stats" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-G-Sundhar&theme=tokyonight" alt="Shyam's Streak Stats" height="150">
@@ -31,21 +42,21 @@
 
 ---
 
-### 🏆 **Achievements**
+### 🏆 **Achievements**  
 - 📚 **Published papers** on **Smart Cities** and **Hybrid Classification Algorithms**  
 - 🏅 **Earned certifications** in **Machine Learning**, **Flutter Development**, and **Data Models**  
 - 🌟 Played a key role in **Full Stack Development** at **Techrodai**  
 
 ---
 
-### 💻 **Current Roles**
+### 💻 **Current Roles**  
 - 🚗 **Mobile Application Developer** at Ozotec EV  
 - 💼 **Secretary** at IEEE Computational Intelligence Society  
 - 🤝 Freelancer developing cutting-edge mobile applications and solutions  
 
 ---
 
-### 🌐 **Let's Connect**
+### 🌐 **Let's Connect**  
 <p align="center">
   <a href="https://www.linkedin.com/in/shyamgsundhar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -68,6 +79,18 @@
 </p>
 
 ---
+
 ### 🌟 **Fun Fact**  
 > "Coding is like poetry; every line tells a story, every function has a rhythm!"  
+
+---
+
+### **Support My Work**  
+<p align="center">
+  If you like my projects or would like to support my work, feel free to buy me a coffee!  
+  <a href="https://www.buymeacoffee.com/shyamsundhar">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?logo=buymeacoffee&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
 ---
