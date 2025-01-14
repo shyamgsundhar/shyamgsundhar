@@ -41,18 +41,9 @@
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/shyamgundhar">
-    <img src="https://github-readme-stats.vercel.app/api?username=shyamgsundhar&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="150">
-  </a>
-  <a href="https://github.com/shyamgundhar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgsundhar&theme=github_dark" alt="GitHub Streak Stats" height="150">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shyamgundhar">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shyamgsundhar&theme=github&bg_color=000000&color=ffffff&line=ff9900&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" height="200">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamgundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgundhar&theme=radical" alt="Shyam's Streak Stats" height="150" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
 </p>
 
 ---
