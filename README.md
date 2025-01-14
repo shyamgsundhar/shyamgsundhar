@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square">
 </p>
 
 ---
@@ -82,15 +81,5 @@
 
 ### 🌟 **Fun Fact**  
 > "Coding is like poetry; every line tells a story, every function has a rhythm!"  
-
----
-
-### **Support My Work**  
-<p align="center">
-  If you like my projects or would like to support my work, feel free to buy me a coffee!  
-  <a href="https://www.buymeacoffee.com/shyamsundhar">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?logo=buymeacoffee&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 
 ---
