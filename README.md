@@ -59,12 +59,6 @@
   <a href="https://www.buymeacoffee.com/shyamsundhar">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?logo=buymeacoffee&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
----
-
-### 📈 **LeetCode & HackerRank**  
-<p align="center">
   <a href="https://leetcode.com/ShyamGSundhar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
@@ -74,10 +68,8 @@
 </p>
 
 ---
-
 ### 🌟 **Fun Fact**  
 > "Coding is like poetry; every line tells a story, every function has a rhythm!"  
-
 ---
 
 ### **Support My Work**  
