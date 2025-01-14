@@ -41,9 +41,9 @@
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamgundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgundhar&theme=radical" alt="Shyam's Streak Stats" height="150" width="auto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamgsundhar&show_icons=true&theme=radical" alt="Shyam's GitHub Stats" height="150" width="auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgsundhar&theme=radical" alt="Shyam's Streak Stats" height="150" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgsundhar&layout=compact&theme=radical" alt="Top Languages" height="150" width="auto">
 </p>
 
 ---
