@@ -45,7 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamgsundhar&theme=tokyonight" alt="GitHub Streak Stats" height="180">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyam-G-Sundhar&theme=tokyonight" alt="GitHub Summary Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamgsundhar&theme=tokyonight" alt="GitHub Summary Card">
 </p>
 
 ---
