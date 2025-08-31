@@ -1,12 +1,12 @@
 # 👋 **Hello, I'm Shyam Sundhar**  
-## 🚀 **Tech Enthusiast | AI/ML Developer | Mobile App Developer**
+## 🚀 **Tech Enthusiast | AI/ML & GenAI Developer | Mobile App Developer**
 
 ---
 
 ### 💡 **About Me**  
 - 🌟 **Innovation Ambassador** at **KPR Institute of Engineering and Technology**  
-- 🖥️ Experienced in **AI**, **ML**, **Mobile App Development** (Focus on **Flutter** & **Firebase**)  
-- 🤖 Passionate about **AI**, **Deep Learning**, and scalable applications  
+- 🖥️ Experienced in **AI**, **ML**, **Generative AI (GenAI)**, **RAG-based LLMs**, and **Mobile App Development** (Focus on **Flutter** & **Firebase**)  
+- 🤖 Passionate about **Deep Learning**, **LLM-powered applications**, and scalable mobile solutions  
 - 📘 Published research in **Sustainable Smart Cities** and **Heart Attack Prediction**
 
 ---
@@ -15,8 +15,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30">
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-Generative%20AI-8A2BE2?logo=openai&logoColor=white&style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/-RAG%20LLM-4B0082?logo=ai&logoColor=white&style=for-the-badge" height="30">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30">
@@ -45,17 +45,15 @@
 ---
 
 ### 🏆 **Achievements**  
-- 📚 Published research on **Smart Cities** and **Hybrid Classification Algorithms**  
+- 📚 Published research on **Smart Cities**, **Hybrid Classification Algorithms**, and **Healthcare Predictions**  
+- 🧠 Built prototypes with **Generative AI** and **RAG-based LLMs** for knowledge retrieval & automation  
 - 🏅 Earned certifications in **Machine Learning**, **Flutter Development**, and **Data Models**  
 - 🌟 Key contributor to **Full Stack Development** at **Techrodai**
 
 ---
 
-### 💻 **Current Roles**  
-- 🚗 **Mobile Application Developer** at **Ozotec EV**  
-- 💼 **Secretary** at **IEEE Computational Intelligence Society**  
-- 🤝 Freelancer, building cutting-edge mobile applications
-
+### 💻 **Current Roles**   
+- 🤝 Freelancer, building **GenAI-powered** and **Mobile-first applications**
 ---
 
 ### 🌐 **Let's Connect**  
@@ -65,6 +63,9 @@
   </a>
   <a href="https://shyamgsundhar2005.wixsite.com/shyamgsundhar">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white&style=for-the-badge" alt="Portfolio" height="30">
+  </a>
+  <a href="https://shyamgsundhar.github.io/Updated-Portfolio">
+    <img src="https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Website" height="30">
   </a>
   <a href="mailto:shyamgsundhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
@@ -76,10 +77,5 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" height="30">
   </a>
 </p>
-
----
-
-### 🌟 **Fun Fact**  
-> "Coding is like poetry; every line tells a story, every function has a rhythm!"  
 
 ---
