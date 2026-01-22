@@ -4,7 +4,6 @@
 ---
 
 ### 💡 **About Me**  
-- 🌟 **Innovation Ambassador** at **KPR Institute of Engineering and Technology**  
 - 🖥️ Experienced in **AI**, **ML**, **Generative AI (GenAI)**, **RAG-based LLMs**, and **Mobile App Development** (Focus on **Flutter** & **Firebase**)  
 - 🤖 Passionate about **Deep Learning**, **LLM-powered applications**, and scalable mobile solutions  
 - 📘 Published research in **Sustainable Smart Cities** and **Heart Attack Prediction**
