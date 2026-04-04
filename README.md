@@ -1,10 +1,10 @@
 # 👋 **Hello, I'm Shyam Sundhar**  
-## 🚀 **Tech Enthusiast | AI/ML & GenAI Developer | Mobile App Developer**
+## 🚀 **Tech Enthusiast | Mobile App Developer**
 
 ---
 
 ### 💡 **About Me**  
-- 🖥️ Experienced in **AI**, **ML**, **Generative AI (GenAI)**, **RAG-based LLMs**, and **Mobile App Development** (Focus on **Flutter** & **Firebase**)  
+- 🖥️ Experienced in**Mobile App Development** (Focus on **Flutter** & **Firebase**)  
 - 🤖 Passionate about **Deep Learning**, **LLM-powered applications**, and scalable mobile solutions  
 - 📘 Published research in **Sustainable Smart Cities** and **Heart Attack Prediction**
 
@@ -51,9 +51,6 @@
 
 ---
 
-### 💻 **Current Roles**   
-- 🤝 Freelancer, building **GenAI-powered** and **Mobile-first applications**
----
 
 ### 🌐 **Let's Connect**  
 <p align="left">
@@ -68,12 +65,6 @@
   </a>
   <a href="mailto:shyamgsundhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
-  </a>
-  <a href="https://leetcode.com/ShyamGSundhar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="30">
-  </a>
-  <a href="https://www.hackerrank.com/shyamsundhar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" height="30">
   </a>
 </p>
 
