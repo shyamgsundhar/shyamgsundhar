@@ -222,11 +222,6 @@ status: Open to hire 🟢
 ### GitHub Stats
 
 <div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgsundhar&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" 
-height="170"/>
-
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=shyamgsundhar&theme=transparent&hide_border=true&ring=0F6E56&fire=185FA5&currStreakLabel=0F6E56&sideLabels=444444&dates=888888" height="165"/>
 
