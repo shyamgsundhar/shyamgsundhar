@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Shyam%20Sundhar%20G&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%E2%80%94%20Mobile%20%C2%B7%20Backend%20%C2%B7%20AI&descSize=18&descAlignY=68&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/049046d6-ada3-4ec9-99c8-7b830fd3f66b"
+    alt="LinkedIn Banner"
+    width="100%"
+  />
+</p>
 </div>
 
 <br/>
